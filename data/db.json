@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "id": "user1",
+            "firstName": "کاربر",
+            "lastName": "تست1",
+            "age": 24,
+            "position": "برنامه نویس کلاینت"
+        },
+        {
+            "id": "user2",
+            "firstName": "کاربر",
+            "lastName": "تست2",
+            "age": 23,
+            "position": "برنامه نویس کلاینت"
+        },
+        {
+            "id": "user3",
+            "firstName": "کاربر",
+            "lastName": "تست3",
+            "age": 22,
+            "position": "برنامه نویس کلاینت"
+        }
+    ]
+}
